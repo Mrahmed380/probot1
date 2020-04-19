@@ -3090,4 +3090,4 @@ client.on('message', message => {
   });
 
 
-client.login(token);
+client.login('NjkzMTgyNjAxNDgxMDI3NzQ0.XputHQ.S5Tz3uh3YELIs06L2xaVKmDqSKc');
